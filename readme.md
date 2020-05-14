@@ -13,7 +13,7 @@ flies out again into the cold and seen no more. Thus, the life of man is
 visible for a moment, but we know not what comes before it or follows after 
 it.
 
-* This is italicized*
+ *This is italicized*
 
 - This is
 - an unordered
