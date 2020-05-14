@@ -2,7 +2,7 @@
 
 ## This is a smaller heading
 
-So, O king, does the present life of man on earth seem to me, in comparison
+So, *O king*, does the present life of man on earth seem to me, in comparison
 with the time which is unknown to us, as though a sparrow flew swiftly 
 through the hall, coming in by one door and going by the other, and you, the
 while, sat at meat with your captains and liegemen, in wintry weather, with 
