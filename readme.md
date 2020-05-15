@@ -32,4 +32,4 @@ of code
 ```
 Here is how you make [a link](http://www.wikipedia.org/).
 
-![This is an image.](https://commons.wikimedia.org/wiki/File:Cat_Sphynx._Kittens._img_11.jpg)
+![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
